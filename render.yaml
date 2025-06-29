@@ -1,6 +1,0 @@
-services:
-  - type: worker
-    name: xmr-miner
-    env: linux
-    plan: free
-    startCommand: bash start.sh
